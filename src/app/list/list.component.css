@@ -1,0 +1,21 @@
+.gradient-custom-2 {
+    background: #b899f7;
+    background: -webkit-linear-gradient(to right, rgb(163, 133, 223), rgb(115, 146, 204));
+    background: linear-gradient(to right, rgb(163, 133, 223), rgb(115, 146, 204))
+}
+    
+.mask-custom {
+    background: white;
+    border-radius: 2em;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family:courier, arial, helvetica;
+    font-size:4rem;
+}
+
+button{
+    margin: 6px;
+}
